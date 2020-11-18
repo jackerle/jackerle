@@ -4,6 +4,18 @@
 
 <p align="center"> 🎓 I’m currently studying on Silpakorn University </p> 
 
+<h2 align="center">My contact : </h2>
+<p>
+  <b>Facebook :</b> 
+  <a href="https://www.facebook.com/panuwichw/">👉🏻 Click Here!</a>
+</p>
+<p>
+  <b>IG :</b> 
+  <a href="https://www.instagram.com/jacky19_11/?hl=th">👉🏻 Click Here!</a>
+</p>
+
+
+
 
 <!--
 **jackerle/jackerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
