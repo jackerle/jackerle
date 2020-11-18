@@ -1,8 +1,8 @@
-# Hi there 👋
-## I'm Jackerle  or Panuwish Wongthongpisuth 👨‍🎓
-This Github is My profile and code storage
+<h1 align= "center">✋🏻 Hi there 🤚🏻 </h1>
+<h2 align="center"> I'm Jackerle  or Panuwish Wongthongpisuth 👨‍🎓 </h2>
+<p align="center">This Github is My profile and code storage</p>
 
-- 🎓 I’m currently studying on Silpakorn University 
+<p align="center"> 🎓 I’m currently studying on Silpakorn University </p> 
 
 
 <!--
