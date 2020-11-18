@@ -1,6 +1,10 @@
 # Hi there 👋
-## I'm Jackerle or Panuwish Wongthongpisuth
-This Github is My code storage and personal 
+## I'm Jackerle  or Panuwish Wongthongpisuth 👨‍🎓
+This Github is My profile and code storage
+
+- 🎓 I’m currently studying on Silpakorn University 
+
+
 <!--
 **jackerle/jackerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
