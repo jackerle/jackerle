@@ -1,7 +1,15 @@
+
 <h1 align= "center">✋🏻 Hi there 🤚🏻 </h1>
 <h2 align="center"> I'm Jackerle  or Panuwish Wongthongpisuth 👨‍🎓 </h2>
-<p align="center">This Github is My profile and code storage</p>
 
+<p align="center">
+  <kbd>
+  <img src="personal.jpg" align="center" width="200px" height="200px" border= "1px">
+  </kbd>
+</p>
+
+
+<p align="center">This Github is My profile and code storage</p>
 <p align="center"> 🎓 I’m currently studying on Silpakorn University </p> 
 
 <h2 align="center">My contact : </h2>
