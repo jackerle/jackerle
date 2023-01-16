@@ -15,7 +15,6 @@
 
 
 
-----
 <h2 align="start"> Skills 🧬 </h2>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jackerle&hide=c,HTML,css&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,13 +24,13 @@
 
 
 
-----
+
 <h2 align="start"> Music 🎵 </h2>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316ezsrw46uuxtt5tpjoieh6hf54&count=4)
 
 
-----
+
 
 <h2 align="start"> Contact 📬 </h2>
 
