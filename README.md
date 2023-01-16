@@ -9,9 +9,9 @@
 <p align="start">This Github is My profile and code storage</p>
 <p align="start"> 🔭 I’m currently working on Gosoft (thailand) co. ltd </p> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jackerle&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D&background=ACDD4500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jackerle&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jackerle&hide=stars,prs&count_private=true&show_icons=true&theme=dracula&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jackerle&hide=stars,prs&count_private=true&show_icons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
